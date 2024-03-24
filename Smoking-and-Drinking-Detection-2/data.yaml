@@ -1,0 +1,13 @@
+names:
+- drinking
+- smoking
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: smoking-and-drinking-detection
+  url: https://universe.roboflow.com/yolo-dataset-rtznj/smoking-and-drinking-detection/dataset/2
+  version: 2
+  workspace: yolo-dataset-rtznj
+test: ../test/images
+train: Smoking-and-Drinking-Detection-2/train/images
+val: Smoking-and-Drinking-Detection-2/valid/images
